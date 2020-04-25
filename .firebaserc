@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "budgetcalculator-78ce3": {
+      "hosting": {
+        "budgetCalculator": [
+          "budgetcalculator-78ce3"
+        ]
+      }
+    }
+  }
+}
